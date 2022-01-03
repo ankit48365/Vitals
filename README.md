@@ -2,7 +2,7 @@
 PowerBI Visual to Track Vitals
 
 Schedule
-_______________________________________
+-------------------------------------
 
 BP_HB  --> Monday    (After Wakeup)
 BP_HB  --> Wednesday (After Lunch - 30 mins after)
