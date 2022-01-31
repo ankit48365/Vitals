@@ -6,17 +6,15 @@ Schedule
 
 -------------------------------------
 
-BP_HB  --> Monday    (After Wakeup)
+BP_HB  --> Sunday   (After Wakeup)
 
-BP_HB  --> Wednesday (After Lunch - 30 mins after)
-
-BP_HB  --> Saturday  (Evening - 7 PM)
+BP_HB  --> Thursday (After Lunch - 1 hour after)
 
 ---------------------------------------
 
-GL     --> Tuesday   (After Wakeup)
+GL     --> Sunday  (After Wakeup)
 
-GL     --> Friday    (After Lunch - 30 mins after)
+GL     --> Thursday    (After Lunch - 1 hour after)
 
 ---------------------------------------
 
